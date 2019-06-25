@@ -1,6 +1,5 @@
 # FireWrecker
-This project allows an user (admin or not) to open or close an specified port in Windows Firewall to itself.
-When the user does not have admin privilege, the program is capable of elevating itself and manage firewall anyway, what in my opinion showcases a vulnerability in the system.
+This project allows an user to open or close an specified port in Windows Firewall to itself.
 
 The port being open/closed in the project is '1234', but this can be changed in main.cpp.
 
