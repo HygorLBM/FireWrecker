@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1468823227 source:c:\users\hygor\documents\www\freelancer\myabc\main.cpp
+	<iostream>
+	<initguid.h>
+	<windows.h>
+	<netfw.h>
+	<objbase.h>
+	<oleauto.h>
+	<stdio.h>
+	"SimpleAssert.h"
+	"guid.h"
+
+1468568857 c:\users\hygor\documents\www\freelancer\myabc\netfw.h
+	<rpc.h>
+	<rpcndr.h>
+	<icftypes.h>
+	<oaidl.h>
+
+1468569139 c:\users\hygor\documents\www\freelancer\myabc\icftypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"wtypes.h"
+
+1468620330 c:\users\hygor\documents\www\freelancer\myabc\_assert.h
+	<_mingw.h>
+
+1468629154 c:\users\hygor\documents\www\freelancer\myabc\simpleassert.h
+
+1468633308 c:\users\hygor\documents\www\freelancer\myabc\guid.h
+	<iostream>
+	<vector>
+	<sstream>
+	<string>
+	<iomanip>
+	<jni.h>
+
+1469608093 source:c:\myabc\main.cpp
+	<iostream>
+	<windows.h>
+	<initguid.h>
+	<windows.h>
+	<winbase.h>
+	<netfw.h>
+	<objbase.h>
+	<oleauto.h>
+	<stdio.h>
+	"SimpleAssert.h"
+	"guid.h"
+	"winuser.h"
+	"tchar.h"
+
+1468568857 c:\myabc\netfw.h
+	<rpc.h>
+	<rpcndr.h>
+	<icftypes.h>
+	<oaidl.h>
+
+1468569139 c:\myabc\icftypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"wtypes.h"
+
+1468629154 c:\myabc\simpleassert.h
+
+1468633308 c:\myabc\guid.h
+	<iostream>
+	<vector>
+	<sstream>
+	<string>
+	<iomanip>
+	<jni.h>
+
+1561426238 source:d:\projects\myabc\main.cpp
+	<iostream>
+	<windows.h>
+	<initguid.h>
+	<windows.h>
+	<winbase.h>
+	<netfw.h>
+	<objbase.h>
+	<oleauto.h>
+	<stdio.h>
+	"SimpleAssert.h"
+	"guid.h"
+	"winuser.h"
+	"tchar.h"
+
+1468568857 d:\projects\myabc\netfw.h
+	<rpc.h>
+	<rpcndr.h>
+	<icftypes.h>
+	<oaidl.h>
+
+1468569139 d:\projects\myabc\icftypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"wtypes.h"
+
+1468629154 d:\projects\myabc\simpleassert.h
+
+1468633308 d:\projects\myabc\guid.h
+	<iostream>
+	<vector>
+	<sstream>
+	<string>
+	<iomanip>
+	<jni.h>
+
+1561426238 source:d:\projects\firewrecker\main.cpp
+	<iostream>
+	<windows.h>
+	<initguid.h>
+	<windows.h>
+	<winbase.h>
+	<netfw.h>
+	<objbase.h>
+	<oleauto.h>
+	<stdio.h>
+	"SimpleAssert.h"
+	"guid.h"
+	"winuser.h"
+	"tchar.h"
+
+1468629154 d:\projects\firewrecker\simpleassert.h
+
+1468633308 d:\projects\firewrecker\guid.h
+	<iostream>
+	<vector>
+	<sstream>
+	<string>
+	<iomanip>
+	<jni.h>
+
